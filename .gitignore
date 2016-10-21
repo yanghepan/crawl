@@ -90,4 +90,4 @@ ENV/
 .ropeproject
 
 # special
-secret.py
+jiaohang/jiaohang/secret.py
